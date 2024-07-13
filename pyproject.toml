@@ -5,7 +5,7 @@ build-backend = "scikit_build_core.build"
 [project]
 name = "fastsweep"
 version = "0.0.1"
-authors = [{ name = "Zihou Ng", email = "stwind@gmail.com" }]
+authors = [{ name = "Zihou Ng", email = "stwindfy@gmail.com" }]
 description = "fastsweep"
 readme = "README.md"
 requires-python = ">=3.8"

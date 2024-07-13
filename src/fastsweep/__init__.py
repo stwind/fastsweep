@@ -1,1 +1,1 @@
-from .extension import add, __doc__
+from .redistance import add, arange
